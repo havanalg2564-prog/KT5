@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^12.1.1",
+    "@nestjs/mongoose": "^12.0.1",
+    "@nestjs/typeorm": "^12.0.3",
+    "mongoose": "^8.24.11",
+    "pg": "^8.23.1",
+    "typeorm": "^1.1.3"
+  }
+}
